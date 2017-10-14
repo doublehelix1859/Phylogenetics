@@ -1,2 +1,2 @@
 # Phylogenetics
-Phylogenetic analysis of Influenza virus and so on
+Phylogenetic analyses of Influenza viruses and other organisms
